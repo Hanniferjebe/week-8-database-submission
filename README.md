@@ -23,7 +23,7 @@ This project is a relational **Library Management System** built using **MySQL**
 ### 📂 Setup Steps:
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/library-management-system.git
+    git clone https://github.com/Hanniferjebe/week-8-database-submission.git
     cd library-management-system
     ```
 
@@ -68,11 +68,7 @@ This project is a relational **Library Management System** built using **MySQL**
 
 ## 🗂️ ERD (Entity Relationship Diagram)
 
-Here is the ERD showing all the tables and their relationships:
-
-![ERD](https://your-link-to-erd-image.png)
-> Replace the above link with your ERD image or upload it directly to the GitHub repo.
-
+The ERD has been uploaded to the repository
 ---
 
 ## 📊 Database Schema Overview
