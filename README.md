@@ -124,10 +124,4 @@ The ERD has been uploaded to the repository
 
 ---
 
-## 📷 Screenshot
-
-*Include a screenshot of your ERD or database in use (optional).*
-
----
-
-## 📁 Repository Structure
+--
